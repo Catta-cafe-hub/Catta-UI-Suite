@@ -1,0 +1,56 @@
+====================================================================
+PROPRIETARY END-USER LICENSE AGREEMENT (EULA)
+ข้อตกลงอนุญาตให้ใช้สิทธิสำหรับผู้ใช้ปลายทาง แบบสงวนลิขสิทธิ์
+====================================================================
+
+Copyright (c) 2026 Catta Cafe (phakrop-xxxibmaybemar-AI). 
+All Rights Reserved. สงวนลิขสิทธิ์ตามกฎหมาย
+
+This End-User License Agreement ("Agreement") is a legal agreement between you ("User") and Catta Cafe ("Author") regarding the use of the "Catta UI Suite" software and its associated source code ("Software").
+ข้อตกลงนี้เป็นสัญญาระหว่างท่าน ("ผู้ใช้งาน") และ Catta Cafe ("ผู้สร้างสรรค์") เกี่ยวกับการใช้งานซอฟต์แวร์ "Catta UI Suite" และซอร์สโค้ดที่เกี่ยวข้อง ("ซอฟต์แวร์")
+
+By downloading, installing, or using the Software, you agree to be bound by the terms of this Agreement. If you do not agree to these terms, do not download or use the Software.
+การดาวน์โหลด ติดตั้ง หรือใช้งานซอฟต์แวร์นี้ ถือว่าท่านตกลงยอมรับเงื่อนไขในสัญญาฉบับนี้ หากท่านไม่ตกลง โปรดงดเว้นการดาวน์โหลดและใช้งานโดยเด็ดขาด
+
+
+1. GRANT OF LICENSE (การอนุญาตให้ใช้งาน)
+--------------------------------------------------
+[EN] The Author grants you a personal, non-exclusive, non-transferable, and revocable license to download, install, and use the Software solely for personal use within the SillyTavern application, strictly in conjunction with the official Catta Cafe server/API.
+[TH] ผู้สร้างสรรค์ขออนุญาตให้ท่านใช้ซอฟต์แวร์นี้เป็นการส่วนตัว ไม่ผูกขาด ไม่สามารถโอนสิทธิได้ และสามารถเพิกถอนได้ โดยมีวัตถุประสงค์เพื่อการติดตั้งบนโปรแกรม SillyTavern ส่วนบุคคล และใช้งานร่วมกับเซิร์ฟเวอร์/API อย่างเป็นทางการของ Catta Cafe เท่านั้น
+
+
+2. STRICT RESTRICTIONS (ข้อจำกัดและข้อห้ามเด็ดขาด)
+--------------------------------------------------
+[EN] This Software is NOT Open Source. You are strictly PROHIBITED from engaging in any of the following activities without explicit written permission from the Author:
+a) Copying, distributing, sharing, or publishing the Software to third parties.
+b) Modifying, adapting, translating, or creating derivative works based on the Software.
+c) Reverse engineering, decompiling, disassembling, or attempting to extract the source code.
+d) Using the Software, its logic, or its API for commercial purposes, establishing competing services, or integrating it into unauthorized third-party applications.
+e) Bypassing, disabling, or interfering with security, authentication features, or token verification.
+
+[TH] ซอฟต์แวร์นี้ "ไม่ใช่" ซอฟต์แวร์โอเพนซอร์ส (Not Open Source) ท่านถูกห้ามกระทำการดังต่อไปนี้โดยเด็ดขาด หากไม่ได้รับอนุญาตเป็นลายลักษณ์อักษร:
+ก) ทำซ้ำ แจกจ่าย เผยแพร่ หรือส่งต่อซอฟต์แวร์ให้แก่บุคคลภายนอก
+ข) ดัดแปลง แก้ไข แปลภาษา หรือสร้างผลงานต่อเนื่อง (Derivative works) จากซอฟต์แวร์นี้
+ค) ทำวิศวกรรมย้อนกลับ (Reverse engineer) ถอดรหัส (Decompile) หรือพยายามเข้าถึงซอร์สโค้ด
+ง) นำซอฟต์แวร์ ชุดคำสั่ง หรือ API ไปใช้ในเชิงพาณิชย์ สร้างบริการเพื่อแข่งขัน หรือนำไปเชื่อมต่อกับแอปพลิเคชันอื่นที่ไม่ได้รับอนุญาต
+จ) หลบหลีก ปิดการใช้งาน หรือแทรกแซงระบบรักษาความปลอดภัยและการยืนยันตัวตน (เช่น ระบบ Token)
+
+
+3. SERVER AND API USAGE (การใช้งานเซิร์ฟเวอร์และ API)
+--------------------------------------------------
+[EN] The Software communicates with private servers hosted by Catta Cafe. Access to these servers is a privilege. Unauthorized API requests, endpoint scraping, or usage outside the intended parameters of the Software are strictly forbidden and will be treated as network abuse.
+[TH] ซอฟต์แวร์นี้ทำงานโดยเชื่อมต่อกับเซิร์ฟเวอร์ส่วนบุคคลของ Catta Cafe สิทธิในการเข้าถึงเซิร์ฟเวอร์ถือเป็นสิทธิพิเศษ การยิงคำสั่ง API ที่ไม่ได้รับอนุญาต การดึงข้อมูล (Scraping) หรือการใช้งานนอกเหนือจากที่ซอฟต์แวร์กำหนดไว้ ถือเป็นการคุกคามระบบเครือข่ายและถูกห้ามอย่างเด็ดขาด
+
+
+4. TERMINATION (การบอกเลิกสัญญาและระงับสิทธิ)
+--------------------------------------------------
+[EN] This license is effective until terminated. The Author reserves the right to terminate your license and revoke server access (Ban) immediately, without prior notice, if you fail to comply with any terms of this Agreement. Upon termination, you must destroy all copies of the Software in your possession.
+[TH] ข้อตกลงนี้มีผลบังคับใช้จนกว่าจะถูกยกเลิก ผู้สร้างสรรค์ขอสงวนสิทธิ์ในการยกเลิกสิทธิการใช้งานและระงับการเข้าถึงเซิร์ฟเวอร์ (Ban) ของท่านทันทีโดยไม่ต้องแจ้งให้ทราบล่วงหน้า หากท่านละเมิดข้อตกลงใดๆ ในสัญญาฉบับนี้ เมื่อถูกยกเลิกสิทธิ ท่านต้องทำลายซอฟต์แวร์ทั้งหมดที่อยู่ในความครอบครองของท่านทันที
+
+
+5. DISCLAIMER OF WARRANTY & LIMITATION OF LIABILITY (ข้อจำกัดความรับผิดชอบ)
+--------------------------------------------------
+[EN] THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+[TH] ซอฟต์แวร์นี้ให้บริการตามสภาพที่เป็นอยู่ ("AS IS") โดยไม่มีการรับประกันความสมบูรณ์ในรูปแบบใดๆ ผู้สร้างสรรค์จะไม่รับผิดชอบต่อความเสียหาย สูญหาย หรือผลกระทบใดๆ ที่เกิดขึ้นต่ออุปกรณ์ ข้อมูล หรือบัญชีผู้ใช้งาน ที่เกิดจากการดาวน์โหลด หรือการใช้งานซอฟต์แวร์นี้ในทุกกรณี ผู้ใช้งานตกลงยอมรับความเสี่ยงในการใช้งานด้วยตนเองทั้งหมด
+
+====================================================================

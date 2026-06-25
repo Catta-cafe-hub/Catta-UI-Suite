@@ -1,0 +1,10 @@
+{
+    "display_name": "Catta UI Suite",
+    "description": "System Connector for Catta Cloud (Dr.V Suite).",
+    "loading_order": 100,
+    "requires": [],
+    "optional": [],
+    "js": "index.js",
+    "author": "phakrop-xxxibmaybemar-AI",
+    "version": "2.0.0"
+}
